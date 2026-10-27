@@ -754,7 +754,7 @@ Implementasikan langkah-langkah praktikum Bagian 1 sampai Bagian 7 dan lampirkan
 
 Bukti: halaman panel admin Filament setelah berhasil login.
 
-![Placeholder Screenshot Admin Panel](screenshots/tugas-1-admin-panel.png)
+<img width="1553" height="627" alt="image" src="https://github.com/user-attachments/assets/eb0565be-07d8-4786-893b-d7d740358ef9" />
 
 `Tempat gambar: screenshots/tugas-1-admin-panel.png`
 
@@ -762,7 +762,7 @@ Bukti: halaman panel admin Filament setelah berhasil login.
 
 Bukti: halaman daftar buku yang menampilkan data hasil seeder.
 
-![Placeholder Screenshot List Books](screenshots/tugas-1-list-books-seeded.png)
+<img width="1018" height="725" alt="image" src="https://github.com/user-attachments/assets/f6711caf-fbd5-4491-8ab1-03e04ec3c2e2" />
 
 `Tempat gambar: screenshots/tugas-1-list-books-seeded.png`
 
@@ -770,7 +770,7 @@ Bukti: halaman daftar buku yang menampilkan data hasil seeder.
 
 Bukti: halaman form untuk menambahkan buku baru.
 
-![Placeholder Screenshot Form Create Book](screenshots/tugas-1-create-book.png)
+<img width="1018" height="745" alt="image" src="https://github.com/user-attachments/assets/c52e6d68-0b60-4698-a308-8113e2962dc0" />
 
 `Tempat gambar: screenshots/tugas-1-create-book.png`
 
@@ -778,7 +778,7 @@ Bukti: halaman form untuk menambahkan buku baru.
 
 Bukti: halaman daftar buku setelah kata kunci pencarian dimasukkan dan hasilnya ditampilkan.
 
-![Placeholder Screenshot Hasil Pencarian](screenshots/tugas-1-search-results.png)
+<img width="1025" height="749" alt="image" src="https://github.com/user-attachments/assets/e272e02f-1567-46e6-8d83-732d47626246" />
 
 `Tempat gambar: screenshots/tugas-1-search-results.png`
 
@@ -786,7 +786,7 @@ Bukti: halaman daftar buku setelah kata kunci pencarian dimasukkan dan hasilnya 
 
 Bukti: halaman daftar buku saat filter, misalnya status `Available` atau tahun `2007`, sedang diterapkan.
 
-![Placeholder Screenshot Filter Aktif](screenshots/tugas-1-active-filter.png)
+
 
 `Tempat gambar: screenshots/tugas-1-active-filter.png`
 
