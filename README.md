@@ -1,4 +1,4 @@
-[Uploading README_Praktikum6_Authbook.md…]()
+
 # 📚 Authbook — Sistem Pengelolaan Data Buku
 
 <p align="center">
