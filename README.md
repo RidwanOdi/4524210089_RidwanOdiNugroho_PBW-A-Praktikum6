@@ -790,12 +790,4 @@ Bukti: halaman daftar buku saat filter, misalnya status `Available` atau tahun `
 
 `Tempat gambar: screenshots/tugas-1-active-filter.png`
 
-### Checklist Pengumpulan Tugas 1
-
-- [ ] Admin panel berhasil login.
-- [ ] List Books menampilkan data hasil seeder.
-- [ ] Form Create Book ditampilkan.
-- [ ] Hasil pencarian ditampilkan.
-- [ ] Filter berhasil diterapkan.
-- [ ] Semua screenshot sudah diunggah ke folder `screenshots` di GitHub.
 
