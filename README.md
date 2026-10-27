@@ -784,9 +784,9 @@ Bukti: halaman daftar buku setelah kata kunci pencarian dimasukkan dan hasilnya 
 
 #### 5. Screenshot Filter Aktif
 
-Bukti: halaman daftar buku saat filter, misalnya status `Available` atau tahun `2007`, sedang diterapkan.
+Bukti: halaman daftar buku saat filter, misalnya status `Borrowed`, sedang diterapkan.
 
-
+<img width="1600" height="815" alt="image" src="https://github.com/user-attachments/assets/38659934-2381-4224-9898-a39a31302791" />
 
 `Tempat gambar: screenshots/tugas-1-active-filter.png`
 
